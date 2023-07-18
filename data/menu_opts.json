@@ -1,0 +1,47 @@
+{
+    "nombreApp":"Componentes",
+    "rutas":[
+        {
+        "ruta":"ModificarPerfil",
+        "icon":"person",
+        "texto":"Cuenta"
+    
+    },
+    {
+        "ruta":"RegistroEcopunto",
+        "icon":"store",
+        "texto":"Crear Ecopunto"
+    
+    },
+    {
+        "ruta":"card",
+        "icon":"sunny",
+        "texto":"Tus Ecopuntos"
+    
+    },
+    {
+        "ruta":"Ayuda",
+        "icon":"info",
+        "texto":"Ayuda"
+    
+    },
+    {
+        
+     
+        "ruta":"ReportarProblema",
+        "texto":"Reportar Problema",
+        "icon":"null"
+
+        
+    },
+   
+
+    {
+        "ruta":"TerminosyPrivacidad",
+        "texto":"Terminos y Condiciones",
+        "icon":"null"
+    
+    }
+    ]
+
+}
